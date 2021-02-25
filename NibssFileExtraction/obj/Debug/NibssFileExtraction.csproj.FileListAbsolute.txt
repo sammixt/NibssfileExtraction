@@ -1,0 +1,10 @@
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\bin\Debug\NibssFileExtraction.exe.config
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\bin\Debug\NibssFileExtraction.exe
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\bin\Debug\NibssFileExtraction.pdb
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\obj\Debug\NibssFileExtraction.csprojAssemblyReference.cache
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\obj\Debug\NibssFileExtraction.csproj.CoreCompileInputs.cache
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\obj\Debug\NibssFileExtraction.csproj.CopyComplete
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\obj\Debug\NibssFileExtraction.exe
+C:\Users\esc\source\repos\NibssFileExtraction\NibssFileExtraction\obj\Debug\NibssFileExtraction.pdb
